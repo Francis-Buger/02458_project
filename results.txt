@@ -1,0 +1,894 @@
+213,1,ARimage29.png,Smiling,2.5074
+213,2,ARimage107.png,Not smiling,0.8390
+213,3,ARimage146.png,Not smiling,0.6857
+213,4,ARimage244.png,Smiling,0.7164
+213,5,ARimage276.png,Not smiling,0.7076
+213,6,ARimage97.png,Not smiling,0.6863
+213,7,ARimage168.png,Not smiling,0.9747
+213,8,ARimage270.png,Not smiling,0.8137
+213,9,ARimage264.png,Not smiling,1.1978
+213,10,ARimage92.png,Smiling,0.6519
+213,11,ARimage36.png,Not smiling,0.7939
+213,12,ARimage164.png,Not smiling,0.7710
+213,13,ARimage62.png,Smiling,0.6863
+213,14,ARimage122.png,Not smiling,0.8682
+213,15,ARimage89.png,Smiling,0.7599
+213,16,ARimage182.png,Not smiling,1.3967
+213,17,ARimage80.png,Smiling,0.8904
+213,18,ARimage70.png,Not smiling,0.6405
+213,19,ARimage73.png,Not smiling,0.5837
+213,20,ARimage117.png,Smiling,0.6484
+213,21,ARimage137.png,Not smiling,1.0880
+213,22,ARimage157.png,Smiling,3.8714
+213,23,ARimage67.png,Not smiling,1.1205
+213,24,ARimage223.png,Smiling,1.0471
+213,25,ARimage191.png,Not smiling,6.6070
+213,26,ARimage237.png,Not smiling,2.1523
+213,27,ARimage77.png,Smiling,2.1440
+213,28,ARimage5.png,Smiling,4.5972
+213,29,ARimage113.png,Not smiling,1.8136
+213,30,ARimage134.png,Not smiling,1.4952
+213,31,ARimage109.png,Not smiling,0.7984
+213,32,ARimage116.png,Not smiling,0.7902
+213,33,ARimage23.png,Smiling,0.6692
+213,34,ARimage131.png,Not smiling,0.6974
+213,35,ARimage232.png,Smiling,1.1490
+213,36,ARimage177.png,Not smiling,0.8173
+213,37,ARimage192.png,Not smiling,2.4283
+213,38,ARimage258.png,Not smiling,0.6831
+213,39,ARimage259.png,Smiling,0.6291
+213,40,ARimage54.png,Not smiling,0.9035
+213,41,ARimage105.png,Smiling,0.6229
+213,42,ARimage176.png,Not smiling,0.6834
+213,43,ARimage115.png,Not smiling,1.2784
+213,44,ARimage141.png,Smiling,1.3052
+213,45,ARimage249.png,Smiling,2.5095
+213,46,ARimage91.png,Not smiling,0.7493
+213,47,ARimage86.png,Smiling,0.6050
+213,48,ARimage220.png,Smiling,0.5732
+213,49,ARimage52.png,Not smiling,0.8870
+213,50,ARimage288.png,Not smiling,1.6749
+213,51,ARimage215.png,Not smiling,0.6660
+213,52,ARimage274.png,Smiling,0.6110
+213,53,ARimage266.png,Not smiling,0.8578
+213,54,ARimage14.png,Smiling,0.6369
+213,55,ARimage46.png,Not smiling,0.6949
+213,56,ARimage69.png,Not smiling,1.2655
+213,57,ARimage269.png,Not smiling,0.7939
+213,58,ARimage247.png,Smiling,0.6050
+213,59,ARimage6.png,Not smiling,0.6667
+213,60,ARimage179.png,Not smiling,0.9518
+213,61,ARimage252.png,Not smiling,1.4639
+213,62,ARimage188.png,Not smiling,0.6234
+213,63,ARimage175.png,Smiling,0.7034
+213,64,ARimage59.png,Smiling,0.9281
+213,65,ARimage184.png,Smiling,0.6289
+213,66,ARimage239.png,Not smiling,1.8462
+213,67,ARimage30.png,Not smiling,0.6855
+213,68,ARimage130.png,Not smiling,0.6131
+213,69,ARimage174.png,Not smiling,0.8244
+213,70,ARimage285.png,Not smiling,1.3720
+213,71,ARimage211.png,Smiling,1.1348
+213,72,ARimage11.png,Smiling,0.8086
+213,73,ARimage1.png,Not smiling,0.5832
+213,74,ARimage87.png,Not smiling,0.7938
+213,75,ARimage178.png,Smiling,0.6782
+213,76,ARimage205.png,Not smiling,0.8655
+213,77,ARimage32.png,Smiling,0.9123
+213,78,ARimage271.png,Smiling,0.6988
+213,79,ARimage282.png,Not smiling,0.9906
+213,80,ARimage125.png,Not smiling,1.2396
+213,81,ARimage4.png,Not smiling,1.1304
+213,82,ARimage162.png,Not smiling,1.3474
+213,83,ARimage200.png,Not smiling,1.4088
+213,84,ARimage154.png,Smiling,0.7386
+213,85,ARimage118.png,Not smiling,0.8701
+213,86,ARimage197.png,Not smiling,1.4931
+213,87,ARimage76.png,Not smiling,1.2244
+213,88,ARimage194.png,Not smiling,0.6575
+213,89,ARimage203.png,Not smiling,0.5920
+213,90,ARimage225.png,Not smiling,1.2239
+213,91,ARimage231.png,Not smiling,0.6927
+213,92,ARimage156.png,Not smiling,0.8529
+213,93,ARimage265.png,Smiling,1.0010
+213,94,ARimage206.png,Not smiling,1.4311
+213,95,ARimage18.png,Not smiling,1.3295
+213,96,ARimage28.png,Not smiling,1.2892
+213,97,ARimage173.png,Not smiling,0.8116
+213,98,ARimage161.png,Not smiling,1.0006
+213,99,ARimage240.png,Not smiling,0.9848
+213,100,ARimage128.png,Not smiling,0.7661
+213,101,ARimage295.png,Not smiling,0.8046
+213,102,ARimage186.png,Not smiling,0.8848
+213,103,ARimage163.png,Smiling,0.8057
+213,104,ARimage108.png,Smiling,1.1594
+213,105,ARimage256.png,Smiling,1.0587
+213,106,ARimage58.png,Not smiling,0.7388
+213,107,ARimage236.png,Not smiling,0.9866
+213,108,ARimage48.png,Not smiling,1.2208
+213,109,ARimage214.png,Smiling,0.5687
+213,110,ARimage16.png,Not smiling,0.8372
+213,111,ARimage106.png,Not smiling,1.1861
+213,112,ARimage135.png,Smiling,0.5759
+213,113,ARimage98.png,Smiling,1.0638
+213,114,ARimage145.png,Not smiling,0.7663
+213,115,ARimage22.png,Not smiling,0.6835
+213,116,ARimage2.png,Not smiling,1.9313
+213,117,ARimage68.png,Smiling,0.6739
+213,118,ARimage254.png,Not smiling,0.7565
+213,119,ARimage112.png,Not smiling,1.4549
+213,120,ARimage55.png,Not smiling,1.0284
+213,121,ARimage64.png,Not smiling,0.6493
+213,122,ARimage293.png,Not smiling,1.1641
+213,123,ARimage148.png,Not smiling,0.8307
+213,124,ARimage72.png,Not smiling,1.5889
+213,125,ARimage35.png,Smiling,0.6163
+213,126,ARimage280.png,Smiling,0.5923
+213,127,ARimage212.png,Not smiling,0.8206
+213,128,ARimage49.png,Not smiling,1.2466
+213,129,ARimage104.png,Not smiling,0.8885
+213,130,ARimage230.png,Not smiling,0.9235
+213,131,ARimage241.png,Smiling,0.7276
+213,132,ARimage245.png,Not smiling,0.9468
+213,133,ARimage81.png,Not smiling,0.9641
+213,134,ARimage219.png,Not smiling,0.8876
+213,135,ARimage138.png,Smiling,2.0105
+213,136,ARimage233.png,Not smiling,0.6347
+213,137,ARimage50.png,Smiling,1.2983
+213,138,ARimage114.png,Not smiling,3.1898
+213,139,ARimage217.png,Smiling,0.6455
+213,140,ARimage136.png,Not smiling,0.7691
+213,141,ARimage273.png,Not smiling,1.1189
+213,142,ARimage60.png,Not smiling,0.6907
+213,143,ARimage83.png,Smiling,0.6470
+213,144,ARimage268.png,Smiling,1.1940
+213,145,ARimage218.png,Not smiling,0.8524
+213,146,ARimage47.png,Not smiling,1.1946
+213,147,ARimage272.png,Not smiling,0.9099
+213,148,ARimage263.png,Not smiling,1.4799
+213,149,ARimage120.png,Smiling,0.5732
+213,150,ARimage170.png,Not smiling,1.0130
+213,151,ARimage251.png,Not smiling,0.8385
+213,152,ARimage196.png,Smiling,0.7911
+213,153,ARimage187.png,Smiling,0.6108
+213,154,ARimage155.png,Not smiling,1.1524
+213,155,ARimage42.png,Not smiling,0.8260
+213,156,ARimage222.png,Not smiling,0.9545
+213,157,ARimage260.png,Not smiling,0.9192
+213,158,ARimage210.png,Not smiling,0.7828
+213,159,ARimage94.png,Not smiling,1.4486
+213,160,ARimage297.png,Not smiling,1.4920
+213,161,ARimage26.png,Smiling,0.9916
+213,162,ARimage291.png,Not smiling,1.0012
+213,163,ARimage82.png,Not smiling,1.2240
+213,164,ARimage93.png,Smiling,0.8085
+213,165,ARimage61.png,Not smiling,0.8873
+213,166,ARimage99.png,Not smiling,0.9188
+213,167,ARimage25.png,Not smiling,1.7925
+213,168,ARimage287.png,Not smiling,0.9903
+213,169,ARimage216.png,Not smiling,0.6626
+213,170,ARimage213.png,Not smiling,0.6792
+213,171,ARimage171.png,Not smiling,0.8572
+213,172,ARimage90.png,Not smiling,1.0451
+213,173,ARimage253.png,Smiling,0.6384
+213,174,ARimage281.png,Not smiling,1.2285
+213,175,ARimage15.png,Not smiling,0.6977
+213,176,ARimage166.png,Smiling,0.7590
+213,177,ARimage198.png,Not smiling,0.7116
+213,178,ARimage289.png,Not smiling,0.8449
+213,179,ARimage298.png,Not smiling,0.9914
+213,180,ARimage261.png,Not smiling,0.7205
+213,181,ARimage3.png,Not smiling,1.4400
+213,182,ARimage229.png,Smiling,0.8063
+213,183,ARimage221.png,Not smiling,0.7048
+213,184,ARimage201.png,Not smiling,1.5039
+213,185,ARimage27.png,Not smiling,0.8129
+213,186,ARimage78.png,Not smiling,0.7881
+213,187,ARimage290.png,Not smiling,0.5943
+213,188,ARimage101.png,Not smiling,0.8857
+213,189,ARimage31.png,Not smiling,1.1612
+213,190,ARimage160.png,Smiling,0.7548
+213,191,ARimage84.png,Not smiling,0.7771
+213,192,ARimage33.png,Not smiling,0.7882
+213,193,ARimage41.png,Smiling,0.6566
+213,194,ARimage195.png,Not smiling,0.6393
+213,195,ARimage12.png,Not smiling,1.9554
+213,196,ARimage185.png,Not smiling,0.9734
+213,197,ARimage189.png,Not smiling,0.7675
+213,198,ARimage13.png,Not smiling,1.7781
+213,199,ARimage172.png,Smiling,0.9074
+213,200,ARimage133.png,Not smiling,1.8746
+213,201,ARimage74.png,Smiling,0.6282
+213,202,ARimage296.png,Not smiling,2.4454
+213,203,ARimage202.png,Smiling,0.6901
+213,204,ARimage286.png,Not smiling,0.8347
+213,205,ARimage226.png,Smiling,0.7140
+213,206,ARimage190.png,Smiling,0.7122
+213,207,ARimage208.png,Smiling,0.6611
+213,208,ARimage121.png,Not smiling,0.9281
+213,209,ARimage283.png,Smiling,0.7653
+213,210,ARimage169.png,Smiling,0.6021
+213,211,ARimage88.png,Not smiling,0.7786
+213,212,ARimage278.png,Not smiling,1.6116
+213,213,ARimage143.png,Not smiling,1.0540
+213,214,ARimage284.png,Not smiling,1.1072
+213,215,ARimage7.png,Not smiling,1.2030
+213,216,ARimage242.png,Not smiling,0.9993
+213,217,ARimage119.png,Not smiling,1.2162
+213,218,ARimage127.png,Not smiling,0.9007
+213,219,ARimage56.png,Smiling,0.8031
+213,220,ARimage151.png,Smiling,0.6689
+213,221,ARimage180.png,Not smiling,0.5763
+213,222,ARimage79.png,Not smiling,0.7208
+213,223,ARimage103.png,Not smiling,0.9748
+213,224,ARimage39.png,Not smiling,0.8516
+213,225,ARimage277.png,Smiling,0.7033
+213,226,ARimage20.png,Smiling,0.6711
+213,227,ARimage255.png,Not smiling,0.7090
+213,228,ARimage75.png,Not smiling,0.9176
+213,229,ARimage246.png,Not smiling,1.1998
+213,230,ARimage57.png,Not smiling,0.6059
+213,231,ARimage279.png,Not smiling,0.6222
+213,232,ARimage243.png,Not smiling,1.3192
+213,233,ARimage66.png,Not smiling,1.4179
+213,234,ARimage267.png,Not smiling,0.6295
+213,235,ARimage102.png,Smiling,0.6642
+213,236,ARimage262.png,Smiling,0.5177
+213,237,ARimage227.png,Not smiling,0.6848
+213,238,ARimage238.png,Smiling,0.5457
+213,239,ARimage275.png,Not smiling,0.8267
+213,240,ARimage183.png,Not smiling,0.7938
+213,241,ARimage165.png,Not smiling,1.1103
+213,242,ARimage153.png,Not smiling,0.9405
+213,243,ARimage167.png,Not smiling,0.6971
+213,244,ARimage53.png,Smiling,0.6669
+213,245,ARimage132.png,Smiling,1.2094
+213,246,ARimage140.png,Not smiling,0.9021
+213,247,ARimage95.png,Smiling,1.3050
+213,248,ARimage181.png,Smiling,1.0746
+213,249,ARimage152.png,Not smiling,0.7698
+213,250,ARimage40.png,Not smiling,0.7029
+213,251,ARimage139.png,Not smiling,0.6260
+213,252,ARimage111.png,Smiling,1.3217
+213,253,ARimage45.png,Not smiling,0.8601
+213,254,ARimage158.png,Not smiling,1.4689
+213,255,ARimage65.png,Smiling,0.7458
+213,256,ARimage24.png,Not smiling,0.7063
+213,257,ARimage34.png,Not smiling,1.0638
+213,258,ARimage144.png,Smiling,0.7214
+213,259,ARimage19.png,Not smiling,0.9001
+213,260,ARimage9.png,Not smiling,0.7331
+213,261,ARimage44.png,Smiling,0.7057
+213,262,ARimage85.png,Not smiling,1.1431
+213,263,ARimage159.png,Not smiling,2.0599
+213,264,ARimage126.png,Smiling,0.7487
+213,265,ARimage147.png,Smiling,0.6536
+213,266,ARimage224.png,Not smiling,0.7929
+213,267,ARimage250.png,Smiling,0.6542
+213,268,ARimage228.png,Not smiling,1.0426
+213,269,ARimage71.png,Smiling,0.7909
+213,270,ARimage63.png,Not smiling,1.4665
+213,271,ARimage8.png,Not smiling,0.9202
+213,272,ARimage209.png,Not smiling,0.8028
+213,273,ARimage17.png,Not smiling,0.6209
+213,274,ARimage129.png,Smiling,0.7240
+213,275,ARimage37.png,Not smiling,0.6393
+213,276,ARimage193.png,Smiling,0.6800
+213,277,ARimage149.png,Not smiling,0.6987
+213,278,ARimage207.png,Not smiling,0.8985
+213,279,ARimage10.png,Not smiling,1.1965
+213,280,ARimage110.png,Not smiling,0.6882
+213,281,ARimage150.png,Not smiling,2.4785
+213,282,ARimage235.png,Smiling,0.8305
+213,283,ARimage100.png,Not smiling,0.9919
+213,284,ARimage38.png,Smiling,1.1318
+213,285,ARimage21.png,Not smiling,1.3599
+213,286,ARimage204.png,Not smiling,0.7791
+213,287,ARimage292.png,Not smiling,0.6426
+213,288,ARimage199.png,Smiling,0.7063
+213,289,ARimage51.png,Not smiling,0.9470
+213,290,ARimage96.png,Not smiling,1.1995
+213,291,ARimage124.png,Not smiling,0.7924
+213,292,ARimage234.png,Not smiling,0.8356
+213,293,ARimage142.png,Not smiling,0.7421
+213,294,ARimage257.png,Not smiling,1.1256
+213,295,ARimage248.png,Not smiling,0.7737
+213,296,ARimage294.png,Not smiling,0.7232
+213,297,ARimage43.png,Not smiling,2.1483
+213,298,ARimage123.png,Smiling,1.3253
+623,1,ARimage83.png,Not smiling,2.8381
+623,2,ARimage144.png,Smiling,10.9190
+623,3,ARimage292.png,Not smiling,10.0275
+623,4,ARimage76.png,Not smiling,1.0608
+623,5,ARimage18.png,Not smiling,0.7381
+623,6,ARimage4.png,Not smiling,0.6666
+623,7,ARimage213.png,Not smiling,0.6517
+623,8,ARimage79.png,Not smiling,0.6659
+623,9,ARimage39.png,Not smiling,4.5102
+623,10,ARimage129.png,Smiling,0.8334
+623,11,ARimage61.png,Not smiling,1.2441
+623,12,ARimage226.png,Smiling,0.7357
+623,13,ARimage282.png,Not smiling,1.3946
+623,14,ARimage272.png,Not smiling,0.7891
+623,15,ARimage106.png,Not smiling,2.3365
+623,16,ARimage177.png,Not smiling,0.7636
+623,17,ARimage121.png,Not smiling,0.7930
+623,18,ARimage65.png,Smiling,0.7916
+623,19,ARimage235.png,Smiling,0.5810
+623,20,ARimage294.png,Not smiling,0.8939
+623,21,ARimage6.png,Not smiling,0.9115
+623,22,ARimage98.png,Smiling,0.8349
+623,23,ARimage139.png,Not smiling,1.1743
+623,24,ARimage278.png,Not smiling,1.2759
+623,25,ARimage185.png,Not smiling,0.8487
+623,26,ARimage128.png,Not smiling,0.8808
+623,27,ARimage24.png,Not smiling,2.3354
+623,28,ARimage49.png,Not smiling,3.6439
+623,29,ARimage38.png,Smiling,0.7370
+623,30,ARimage34.png,Not smiling,1.3788
+623,31,ARimage105.png,Smiling,2.1577
+623,32,ARimage246.png,Not smiling,1.2573
+623,33,ARimage280.png,Smiling,0.8899
+623,34,ARimage150.png,Not smiling,1.6000
+623,35,ARimage64.png,Not smiling,2.7680
+623,36,ARimage253.png,Smiling,1.1957
+623,37,ARimage238.png,Smiling,0.7620
+623,38,ARimage222.png,Not smiling,0.9914
+623,39,ARimage60.png,Not smiling,0.9858
+623,40,ARimage151.png,Smiling,0.7945
+623,41,ARimage82.png,Not smiling,2.1699
+623,42,ARimage239.png,Not smiling,0.8193
+623,43,ARimage140.png,Not smiling,0.7994
+623,44,ARimage204.png,Not smiling,15.4005
+623,45,ARimage87.png,Not smiling,0.7448
+623,46,ARimage27.png,Not smiling,0.9678
+623,47,ARimage264.png,Not smiling,0.6287
+623,48,ARimage248.png,Not smiling,0.8345
+623,49,ARimage35.png,Smiling,0.7016
+623,50,ARimage54.png,Not smiling,2.5892
+623,51,ARimage206.png,Not smiling,1.4395
+623,52,ARimage297.png,Not smiling,0.9885
+623,53,ARimage53.png,Smiling,0.8967
+623,54,ARimage133.png,Not smiling,1.1043
+623,55,ARimage231.png,Not smiling,1.0116
+623,56,ARimage135.png,Smiling,0.6745
+623,57,ARimage14.png,Smiling,0.6093
+623,58,ARimage227.png,Not smiling,1.8128
+623,59,ARimage295.png,Not smiling,0.7526
+623,60,ARimage68.png,Smiling,1.2941
+623,61,ARimage125.png,Not smiling,1.3508
+623,62,ARimage198.png,Not smiling,1.2988
+623,63,ARimage85.png,Not smiling,0.6184
+623,64,ARimage214.png,Smiling,0.8727
+623,65,ARimage100.png,Not smiling,0.7246
+623,66,ARimage57.png,Not smiling,1.0038
+623,67,ARimage208.png,Smiling,0.7339
+623,68,ARimage287.png,Not smiling,0.7757
+623,69,ARimage162.png,Not smiling,4.0323
+623,70,ARimage195.png,Not smiling,0.6806
+623,71,ARimage12.png,Not smiling,0.7332
+623,72,ARimage36.png,Not smiling,0.8873
+623,73,ARimage164.png,Not smiling,1.7636
+623,74,ARimage71.png,Smiling,1.0767
+623,75,ARimage217.png,Smiling,0.7749
+623,76,ARimage293.png,Not smiling,1.4343
+623,77,ARimage152.png,Not smiling,0.7827
+623,78,ARimage48.png,Not smiling,0.5408
+623,79,ARimage165.png,Smiling,0.6717
+623,80,ARimage149.png,Not smiling,0.7956
+623,81,ARimage207.png,Not smiling,1.9901
+623,82,ARimage44.png,Smiling,0.6094
+623,83,ARimage138.png,Smiling,1.8473
+623,84,ARimage273.png,Not smiling,1.2741
+623,85,ARimage95.png,Smiling,0.6363
+623,86,ARimage178.png,Smiling,0.6449
+623,87,ARimage284.png,Not smiling,0.8260
+623,88,ARimage192.png,Not smiling,0.9148
+623,89,ARimage191.png,Not smiling,0.6101
+623,90,ARimage196.png,Smiling,0.5919
+623,91,ARimage118.png,Smiling,1.7751
+623,92,ARimage109.png,Not smiling,0.8556
+623,93,ARimage285.png,Not smiling,1.1745
+623,94,ARimage237.png,Not smiling,1.3195
+623,95,ARimage88.png,Not smiling,0.7926
+623,96,ARimage232.png,Smiling,0.7316
+623,97,ARimage26.png,Smiling,0.7774
+623,98,ARimage190.png,Smiling,0.5926
+623,99,ARimage211.png,Smiling,1.9000
+623,100,ARimage224.png,Not smiling,2.2589
+623,101,ARimage161.png,Not smiling,0.8267
+623,102,ARimage182.png,Not smiling,0.6120
+623,103,ARimage210.png,Not smiling,0.6105
+623,104,ARimage45.png,Not smiling,0.5371
+623,105,ARimage171.png,Not smiling,0.7015
+623,106,ARimage91.png,Not smiling,0.8454
+623,107,ARimage286.png,Not smiling,3.5054
+623,108,ARimage230.png,Not smiling,0.7791
+623,109,ARimage134.png,Not smiling,0.6319
+623,110,ARimage223.png,Smiling,0.6464
+623,111,ARimage265.png,Smiling,0.5470
+623,112,ARimage148.png,Not smiling,1.1557
+623,113,ARimage189.png,Not smiling,1.1508
+623,114,ARimage132.png,Smiling,0.5713
+623,115,ARimage80.png,Smiling,0.5158
+623,116,ARimage153.png,Not smiling,0.9462
+623,117,ARimage37.png,Not smiling,0.7923
+623,118,ARimage20.png,Smiling,0.6024
+623,119,ARimage252.png,Not smiling,0.7839
+623,120,ARimage296.png,Not smiling,0.6291
+623,121,ARimage212.png,Not smiling,0.5966
+623,122,ARimage42.png,Not smiling,0.6379
+623,123,ARimage174.png,Not smiling,0.4676
+623,124,ARimage262.png,Smiling,0.7645
+623,125,ARimage172.png,Smiling,1.2601
+623,126,ARimage21.png,Not smiling,2.0142
+623,127,ARimage75.png,Not smiling,4.7181
+623,128,ARimage127.png,Not smiling,0.9262
+623,129,ARimage50.png,Smiling,0.8678
+623,130,ARimage160.png,Smiling,1.4014
+623,131,ARimage86.png,Smiling,0.6244
+623,132,ARimage170.png,Not smiling,0.9297
+623,133,ARimage279.png,Not smiling,1.3479
+623,134,ARimage259.png,Smiling,0.5890
+623,135,ARimage197.png,Not smiling,1.0535
+623,136,ARimage186.png,Not smiling,0.8400
+623,137,ARimage268.png,Smiling,0.5475
+623,138,ARimage33.png,Not smiling,0.7731
+623,139,ARimage3.png,Not smiling,0.7703
+623,140,ARimage77.png,Smiling,0.7349
+623,141,ARimage126.png,Smiling,0.4998
+623,142,ARimage203.png,Not smiling,0.9861
+623,143,ARimage290.png,Not smiling,1.3966
+623,144,ARimage97.png,Not smiling,0.8170
+623,145,ARimage176.png,Not smiling,0.7625
+623,146,ARimage261.png,Not smiling,0.5149
+623,147,ARimage120.png,Smiling,0.7339
+623,148,ARimage168.png,Not smiling,0.8203
+623,149,ARimage130.png,Not smiling,0.8980
+623,150,ARimage199.png,Smiling,0.5679
+623,151,ARimage283.png,Smiling,0.5823
+623,152,ARimage183.png,Not smiling,0.6814
+623,153,ARimage111.png,Smiling,0.5863
+623,154,ARimage260.png,Not smiling,1.0382
+623,155,ARimage73.png,Not smiling,1.2078
+623,156,ARimage78.png,Not smiling,0.7916
+623,157,ARimage84.png,Not smiling,0.7381
+623,158,ARimage270.png,Not smiling,0.6537
+623,159,ARimage110.png,Not smiling,0.8842
+623,160,ARimage46.png,Not smiling,0.7407
+623,161,ARimage218.png,Not smiling,0.6221
+623,162,ARimage66.png,Not smiling,0.6530
+623,163,ARimage113.png,Not smiling,0.7188
+623,164,ARimage245.png,Not smiling,0.7459
+623,165,ARimage167.png,Not smiling,0.5128
+623,166,ARimage194.png,Not smiling,0.6993
+623,167,ARimage156.png,Not smiling,0.5256
+623,168,ARimage142.png,Not smiling,0.5418
+623,169,ARimage233.png,Not smiling,1.3926
+623,170,ARimage47.png,Not smiling,1.5860
+623,171,ARimage9.png,Not smiling,0.5960
+623,172,ARimage124.png,Not smiling,0.6037
+623,173,ARimage254.png,Not smiling,1.2255
+623,174,ARimage263.png,Not smiling,0.6252
+623,175,ARimage277.png,Smiling,0.6554
+623,176,ARimage184.png,Smiling,0.4982
+623,177,ARimage209.png,Not smiling,0.8347
+623,178,ARimage180.png,Not smiling,0.7784
+623,179,ARimage93.png,Not smiling,0.8931
+623,180,ARimage289.png,Not smiling,0.6312
+623,181,ARimage271.png,Smiling,0.6385
+623,182,ARimage241.png,Smiling,0.6630
+623,183,ARimage108.png,Smiling,0.5243
+623,184,ARimage216.png,Not smiling,0.8829
+623,185,ARimage255.png,Not smiling,0.6573
+623,186,ARimage269.png,Not smiling,0.5075
+623,187,ARimage243.png,Not smiling,0.5312
+623,188,ARimage52.png,Not smiling,1.1853
+623,189,ARimage40.png,Not smiling,0.6612
+623,190,ARimage74.png,Smiling,0.6380
+623,191,ARimage137.png,Not smiling,0.8661
+623,192,ARimage173.png,Not smiling,1.0598
+623,193,ARimage298.png,Not smiling,0.6896
+623,194,ARimage63.png,Not smiling,0.5347
+623,195,ARimage112.png,Not smiling,0.5103
+623,196,ARimage146.png,Not smiling,0.5582
+623,197,ARimage228.png,Not smiling,0.5581
+623,198,ARimage240.png,Not smiling,0.4518
+623,199,ARimage188.png,Not smiling,0.5013
+623,200,ARimage96.png,Not smiling,0.6812
+623,201,ARimage236.png,Not smiling,0.4674
+623,202,ARimage102.png,Smiling,0.7172
+623,203,ARimage2.png,Not smiling,2.7881
+623,204,ARimage67.png,Not smiling,0.7829
+623,205,ARimage205.png,Smiling,1.2483
+623,206,ARimage69.png,Not smiling,0.7224
+623,207,ARimage90.png,Not smiling,1.1844
+623,208,ARimage123.png,Smiling,0.7238
+623,209,ARimage257.png,Not smiling,1.1166
+623,210,ARimage225.png,Not smiling,0.8472
+623,211,ARimage145.png,Not smiling,1.9222
+623,212,ARimage1.png,Not smiling,0.7399
+623,213,ARimage220.png,Smiling,0.6282
+623,214,ARimage70.png,Not smiling,0.7742
+623,215,ARimage276.png,Not smiling,0.8719
+623,216,ARimage175.png,Smiling,0.5954
+623,217,ARimage16.png,Not smiling,0.6269
+623,218,ARimage291.png,Not smiling,0.8872
+623,219,ARimage25.png,Not smiling,0.6718
+623,220,ARimage256.png,Smiling,0.6557
+623,221,ARimage229.png,Smiling,0.7529
+623,222,ARimage158.png,Not smiling,1.0463
+623,223,ARimage169.png,Smiling,0.7976
+623,224,ARimage141.png,Smiling,1.0667
+623,225,ARimage249.png,Not smiling,1.0680
+623,226,ARimage28.png,Not smiling,1.7588
+623,227,ARimage31.png,Not smiling,0.7084
+623,228,ARimage103.png,Not smiling,0.7717
+623,229,ARimage221.png,Not smiling,0.9666
+623,230,ARimage89.png,Smiling,0.6998
+623,231,ARimage163.png,Smiling,0.6125
+623,232,ARimage43.png,Not smiling,0.9356
+623,233,ARimage94.png,Not smiling,1.9954
+623,234,ARimage10.png,Not smiling,0.9630
+623,235,ARimage202.png,Smiling,0.7070
+623,236,ARimage244.png,Smiling,0.7982
+623,237,ARimage201.png,Not smiling,0.9763
+623,238,ARimage13.png,Smiling,0.8465
+623,239,ARimage187.png,Smiling,1.0334
+623,240,ARimage11.png,Smiling,1.2036
+623,241,ARimage59.png,Smiling,0.8242
+623,242,ARimage179.png,Not smiling,1.0297
+623,243,ARimage23.png,Smiling,1.9166
+623,244,ARimage242.png,Not smiling,1.8249
+623,245,ARimage251.png,Not smiling,1.1056
+623,246,ARimage155.png,Not smiling,0.6371
+623,247,ARimage143.png,Not smiling,0.7855
+623,248,ARimage72.png,Not smiling,0.8939
+623,249,ARimage136.png,Not smiling,0.7232
+623,250,ARimage250.png,Smiling,1.1037
+623,251,ARimage17.png,Smiling,1.1941
+623,252,ARimage92.png,Smiling,0.7028
+623,253,ARimage181.png,Smiling,0.6287
+623,254,ARimage234.png,Not smiling,0.8183
+623,255,ARimage51.png,Not smiling,0.8113
+623,256,ARimage15.png,Not smiling,1.0252
+623,257,ARimage288.png,Not smiling,0.8379
+623,258,ARimage117.png,Smiling,0.6301
+623,259,ARimage5.png,Smiling,0.6795
+623,260,ARimage104.png,Not smiling,1.0570
+623,261,ARimage157.png,Smiling,0.6543
+623,262,ARimage55.png,Not smiling,0.8274
+623,263,ARimage19.png,Not smiling,1.2713
+623,264,ARimage219.png,Not smiling,0.6051
+623,265,ARimage147.png,Smiling,0.6824
+623,266,ARimage281.png,Not smiling,1.4223
+623,267,ARimage7.png,Not smiling,0.6574
+623,268,ARimage62.png,Smiling,0.7652
+623,269,ARimage166.png,Smiling,0.7654
+623,270,ARimage22.png,Not smiling,1.2239
+623,271,ARimage81.png,Not smiling,1.1305
+623,272,ARimage200.png,Not smiling,1.8533
+623,273,ARimage247.png,Smiling,0.6269
+623,274,ARimage8.png,Smiling,0.6439
+623,275,ARimage107.png,Not smiling,2.1503
+623,276,ARimage114.png,Not smiling,1.4933
+623,277,ARimage267.png,Not smiling,0.8104
+623,278,ARimage159.png,Not smiling,0.6576
+623,279,ARimage58.png,Not smiling,0.7327
+623,280,ARimage131.png,Not smiling,0.8272
+623,281,ARimage193.png,Smiling,0.6917
+623,282,ARimage32.png,Smiling,0.5392
+623,283,ARimage119.png,Not smiling,1.2600
+623,284,ARimage99.png,Not smiling,2.2940
+623,285,ARimage274.png,Smiling,0.6847
+623,286,ARimage122.png,Not smiling,0.7418
+623,287,ARimage258.png,Not smiling,0.7661
+623,288,ARimage266.png,Not smiling,0.6434
+623,289,ARimage41.png,Smiling,0.6626
+623,290,ARimage115.png,Not smiling,0.7779
+623,291,ARimage215.png,Not smiling,0.8791
+623,292,ARimage30.png,Not smiling,0.5273
+623,293,ARimage56.png,Smiling,0.6841
+623,294,ARimage116.png,Not smiling,0.7715
+623,295,ARimage154.png,Smiling,0.7134
+623,296,ARimage29.png,Smiling,0.8192
+623,297,ARimage101.png,Not smiling,0.8130
+623,298,ARimage275.png,Not smiling,1.1390
+213120,1,ARimage60.png,Smiling,15.4395
+213120,2,ARimage254.png,Smiling,0.7222
+213120,3,ARimage130.png,Smiling,0.8277
+213120,4,ARimage224.png,Smiling,0.8707
+213120,5,ARimage239.png,Not smiling,0.9349
+213120,6,ARimage115.png,Not smiling,0.9471
+213120,7,ARimage165.png,Not smiling,0.9955
+213120,8,ARimage95.png,Smiling,0.7664
+213120,9,ARimage243.png,Smiling,1.2945
+213120,10,ARimage146.png,Not smiling,0.8712
+213120,11,ARimage186.png,Not smiling,0.7903
+213120,12,ARimage120.png,Smiling,0.6731
+213120,13,ARimage54.png,Smiling,1.1989
+213120,14,ARimage286.png,Not smiling,0.8820
+213120,15,ARimage246.png,Not smiling,0.7855
+213120,16,ARimage7.png,Not smiling,0.7084
+213120,17,ARimage2.png,Not smiling,0.5694
+213120,18,ARimage156.png,Not smiling,0.8715
+213120,19,ARimage236.png,Not smiling,0.8088
+213120,20,ARimage151.png,Smiling,0.6370
+213120,21,ARimage234.png,Not smiling,0.8571
+213120,22,ARimage18.png,Not smiling,0.8362
+213120,23,ARimage247.png,Smiling,0.7390
+213120,24,ARimage250.png,Smiling,0.5459
+213120,25,ARimage91.png,Not smiling,0.7027
+213120,26,ARimage222.png,Not smiling,1.2495
+213120,27,ARimage192.png,Not smiling,0.8065
+213120,28,ARimage242.png,Not smiling,0.7813
+213120,29,ARimage271.png,Smiling,0.7300
+213120,30,ARimage265.png,Smiling,0.6251
+213120,31,ARimage276.png,Not smiling,0.7351
+213120,32,ARimage59.png,Smiling,0.5441
+213120,33,ARimage161.png,Not smiling,0.7832
+213120,34,ARimage109.png,Not smiling,0.8839
+213120,35,ARimage65.png,Smiling,0.7017
+213120,36,ARimage132.png,Smiling,0.6758
+213120,37,ARimage249.png,Smiling,1.0011
+213120,38,ARimage100.png,Not smiling,0.7172
+213120,39,ARimage198.png,Not smiling,0.8691
+213120,40,ARimage177.png,Not smiling,0.8102
+213120,41,ARimage42.png,Not smiling,0.9702
+213120,42,ARimage80.png,Smiling,0.9274
+213120,43,ARimage164.png,Not smiling,0.7034
+213120,44,ARimage82.png,Not smiling,0.7089
+213120,45,ARimage102.png,Smiling,0.6531
+213120,46,ARimage153.png,Not smiling,0.6742
+213120,47,ARimage125.png,Not smiling,0.9401
+213120,48,ARimage51.png,Not smiling,0.6854
+213120,49,ARimage297.png,Not smiling,0.7505
+213120,50,ARimage116.png,Not smiling,0.5571
+213120,51,ARimage288.png,Not smiling,0.6222
+213120,52,ARimage196.png,Smiling,0.5950
+213120,53,ARimage183.png,Not smiling,0.5841
+213120,54,ARimage41.png,Smiling,0.6140
+213120,55,ARimage213.png,Not smiling,0.7287
+213120,56,ARimage237.png,Smiling,0.9005
+213120,57,ARimage175.png,Smiling,0.6790
+213120,58,ARimage33.png,Not smiling,0.7567
+213120,59,ARimage263.png,Not smiling,0.7429
+213120,60,ARimage94.png,Not smiling,0.6842
+213120,61,ARimage261.png,Not smiling,0.5602
+213120,62,ARimage240.png,Not smiling,0.7346
+213120,63,ARimage97.png,Not smiling,0.7839
+213120,64,ARimage93.png,Not smiling,0.5625
+213120,65,ARimage255.png,Not smiling,0.5226
+213120,66,ARimage180.png,Not smiling,0.5331
+213120,67,ARimage123.png,Smiling,0.6587
+213120,68,ARimage230.png,Not smiling,0.6655
+213120,69,ARimage122.png,Not smiling,0.5370
+213120,70,ARimage277.png,Smiling,0.6794
+213120,71,ARimage72.png,Not smiling,0.5638
+213120,72,ARimage67.png,Not smiling,0.5199
+213120,73,ARimage203.png,Not smiling,0.5053
+213120,74,ARimage46.png,Not smiling,0.4892
+213120,75,ARimage76.png,Not smiling,0.4743
+213120,76,ARimage3.png,Not smiling,0.5008
+213120,77,ARimage229.png,Smiling,0.5429
+213120,78,ARimage77.png,Smiling,0.5377
+213120,79,ARimage70.png,Not smiling,0.5733
+213120,80,ARimage56.png,Smiling,0.5902
+213120,81,ARimage137.png,Not smiling,1.2450
+213120,82,ARimage235.png,Smiling,0.6144
+213120,83,ARimage141.png,Smiling,0.5811
+213120,84,ARimage52.png,Not smiling,0.6221
+213120,85,ARimage144.png,Smiling,0.5357
+213120,86,ARimage217.png,Smiling,0.5032
+213120,87,ARimage45.png,Not smiling,0.6395
+213120,88,ARimage214.png,Smiling,0.6664
+213120,89,ARimage55.png,Not smiling,0.6501
+213120,90,ARimage292.png,Not smiling,0.7764
+213120,91,ARimage171.png,Not smiling,0.6686
+213120,92,ARimage11.png,Smiling,0.6923
+213120,93,ARimage131.png,Not smiling,0.8411
+213120,94,ARimage79.png,Not smiling,0.7232
+213120,95,ARimage35.png,Smiling,0.6141
+213120,96,ARimage280.png,Smiling,0.5898
+213120,97,ARimage290.png,Not smiling,0.6218
+213120,98,ARimage101.png,Not smiling,0.7423
+213120,99,ARimage205.png,Not smiling,1.0148
+213120,100,ARimage12.png,Not smiling,0.6578
+213120,101,ARimage293.png,Not smiling,0.5721
+213120,102,ARimage135.png,Smiling,0.5875
+213120,103,ARimage127.png,Not smiling,0.5662
+213120,104,ARimage5.png,Smiling,0.9392
+213120,105,ARimage225.png,Not smiling,0.7929
+213120,106,ARimage73.png,Not smiling,0.5773
+213120,107,ARimage244.png,Smiling,0.5651
+213120,108,ARimage38.png,Smiling,0.5595
+213120,109,ARimage10.png,Not smiling,0.5681
+213120,110,ARimage22.png,Not smiling,0.6234
+213120,111,ARimage228.png,Not smiling,0.7631
+213120,112,ARimage74.png,Smiling,0.6277
+213120,113,ARimage147.png,Smiling,0.6093
+213120,114,ARimage174.png,Not smiling,0.7354
+213120,115,ARimage195.png,Not smiling,1.0973
+213120,116,ARimage152.png,Not smiling,0.6424
+213120,117,ARimage278.png,Not smiling,0.5181
+213120,118,ARimage272.png,Not smiling,0.5892
+213120,119,ARimage197.png,Not smiling,1.0270
+213120,120,ARimage107.png,Not smiling,0.5973
+213120,121,ARimage37.png,Not smiling,0.5370
+213120,122,ARimage279.png,Not smiling,0.4701
+213120,123,ARimage215.png,Not smiling,0.5551
+213120,124,ARimage281.png,Not smiling,0.5430
+213120,125,ARimage251.png,Not smiling,0.6447
+213120,126,ARimage207.png,Not smiling,0.5150
+213120,127,ARimage28.png,Not smiling,0.5010
+213120,128,ARimage24.png,Not smiling,0.4692
+213120,129,ARimage139.png,Not smiling,0.4093
+213120,130,ARimage88.png,Not smiling,0.4631
+213120,131,ARimage148.png,Not smiling,0.5025
+213120,132,ARimage268.png,Smiling,0.5988
+213120,133,ARimage210.png,Not smiling,0.6903
+213120,134,ARimage136.png,Not smiling,0.6365
+213120,135,ARimage21.png,Not smiling,0.5332
+213120,136,ARimage117.png,Smiling,0.6986
+213120,137,ARimage36.png,Not smiling,0.5534
+213120,138,ARimage25.png,Not smiling,0.6216
+213120,139,ARimage1.png,Not smiling,0.5628
+213120,140,ARimage176.png,Not smiling,0.5504
+213120,141,ARimage48.png,Not smiling,0.4833
+213120,142,ARimage119.png,Not smiling,0.6976
+213120,143,ARimage259.png,Smiling,0.8194
+213120,144,ARimage226.png,Smiling,0.7076
+213120,145,ARimage9.png,Not smiling,0.9543
+213120,146,ARimage118.png,Not smiling,0.6646
+213120,147,ARimage150.png,Not smiling,0.7680
+213120,148,ARimage90.png,Not smiling,0.5920
+213120,149,ARimage270.png,Not smiling,0.4933
+213120,150,ARimage216.png,Not smiling,0.4889
+213120,151,ARimage58.png,Not smiling,0.5048
+213120,152,ARimage168.png,Not smiling,0.4477
+213120,153,ARimage47.png,Not smiling,0.5057
+213120,154,ARimage160.png,Smiling,0.7035
+213120,155,ARimage169.png,Smiling,0.5719
+213120,156,ARimage167.png,Not smiling,0.6148
+213120,157,ARimage26.png,Smiling,0.6240
+213120,158,ARimage104.png,Smiling,0.9465
+213120,159,ARimage257.png,Smiling,0.9949
+213120,160,ARimage39.png,Not smiling,0.7670
+213120,161,ARimage34.png,Not smiling,0.8035
+213120,162,ARimage138.png,Smiling,0.8300
+213120,163,ARimage78.png,Not smiling,0.6902
+213120,164,ARimage62.png,Smiling,0.5882
+213120,165,ARimage295.png,Not smiling,0.7522
+213120,166,ARimage245.png,Not smiling,0.8742
+213120,167,ARimage155.png,Not smiling,0.5999
+213120,168,ARimage142.png,Not smiling,0.7610
+213120,169,ARimage190.png,Smiling,0.5906
+213120,170,ARimage179.png,Smiling,0.8098
+213120,171,ARimage188.png,Not smiling,0.6371
+213120,172,ARimage206.png,Not smiling,0.9479
+213120,173,ARimage209.png,Not smiling,0.6381
+213120,174,ARimage154.png,Smiling,0.6390
+213120,175,ARimage166.png,Smiling,0.6709
+213120,176,ARimage145.png,Not smiling,1.2790
+213120,177,ARimage287.png,Not smiling,0.6060
+213120,178,ARimage126.png,Smiling,0.6496
+213120,179,ARimage114.png,Smiling,1.2538
+213120,180,ARimage158.png,Not smiling,0.6651
+213120,181,ARimage66.png,Not smiling,0.6277
+213120,182,ARimage170.png,Not smiling,0.7679
+213120,183,ARimage15.png,Not smiling,0.5348
+213120,184,ARimage16.png,Not smiling,0.5520
+213120,185,ARimage111.png,Smiling,0.6009
+213120,186,ARimage50.png,Smiling,0.6208
+213120,187,ARimage291.png,Not smiling,0.6932
+213120,188,ARimage143.png,Not smiling,0.6058
+213120,189,ARimage189.png,Not smiling,0.6851
+213120,190,ARimage134.png,Not smiling,0.6220
+213120,191,ARimage8.png,Smiling,0.6374
+213120,192,ARimage201.png,Not smiling,0.7108
+213120,193,ARimage231.png,Not smiling,0.5864
+213120,194,ARimage43.png,Not smiling,0.8369
+213120,195,ARimage124.png,Not smiling,0.4658
+213120,196,ARimage275.png,Not smiling,0.5470
+213120,197,ARimage182.png,Not smiling,0.7271
+213120,198,ARimage191.png,Not smiling,0.4720
+213120,199,ARimage227.png,Not smiling,0.5185
+213120,200,ARimage69.png,Not smiling,0.4294
+213120,201,ARimage49.png,Not smiling,0.4405
+213120,202,ARimage187.png,Smiling,0.6947
+213120,203,ARimage232.png,Smiling,0.5710
+213120,204,ARimage253.png,Smiling,0.5216
+213120,205,ARimage238.png,Smiling,0.5856
+213120,206,ARimage218.png,Not smiling,0.6534
+213120,207,ARimage29.png,Smiling,0.8155
+213120,208,ARimage86.png,Smiling,0.6052
+213120,209,ARimage121.png,Smiling,0.7368
+213120,210,ARimage99.png,Not smiling,0.9943
+213120,211,ARimage199.png,Smiling,0.5129
+213120,212,ARimage163.png,Smiling,0.5483
+213120,213,ARimage285.png,Not smiling,0.8807
+213120,214,ARimage241.png,Smiling,0.5721
+213120,215,ARimage223.png,Smiling,0.5726
+213120,216,ARimage96.png,Not smiling,0.7564
+213120,217,ARimage40.png,Smiling,0.8578
+213120,218,ARimage294.png,Not smiling,0.9597
+213120,219,ARimage31.png,Not smiling,0.6457
+213120,220,ARimage282.png,Not smiling,0.5553
+213120,221,ARimage89.png,Smiling,0.6346
+213120,222,ARimage269.png,Not smiling,0.6948
+213120,223,ARimage185.png,Not smiling,0.6949
+213120,224,ARimage252.png,Not smiling,0.6776
+213120,225,ARimage108.png,Smiling,0.7013
+213120,226,ARimage92.png,Smiling,0.5862
+213120,227,ARimage184.png,Smiling,0.6534
+213120,228,ARimage262.png,Smiling,0.4639
+213120,229,ARimage149.png,Not smiling,0.7444
+213120,230,ARimage84.png,Not smiling,0.5876
+213120,231,ARimage178.png,Smiling,0.5753
+213120,232,ARimage157.png,Smiling,0.5873
+213120,233,ARimage289.png,Not smiling,0.6591
+213120,234,ARimage258.png,Not smiling,0.6410
+213120,235,ARimage219.png,Not smiling,0.5180
+213120,236,ARimage208.png,Smiling,0.6507
+213120,237,ARimage220.png,Smiling,0.5971
+213120,238,ARimage20.png,Smiling,0.4872
+213120,239,ARimage193.png,Smiling,0.5478
+213120,240,ARimage260.png,Not smiling,0.7545
+213120,241,ARimage140.png,Not smiling,0.6383
+213120,242,ARimage112.png,Not smiling,0.7632
+213120,243,ARimage298.png,Not smiling,0.4888
+213120,244,ARimage63.png,Not smiling,0.6455
+213120,245,ARimage105.png,Smiling,0.9029
+213120,246,ARimage212.png,Not smiling,0.6865
+213120,247,ARimage173.png,Not smiling,0.7181
+213120,248,ARimage221.png,Not smiling,0.5736
+213120,249,ARimage30.png,Not smiling,0.5044
+213120,250,ARimage202.png,Smiling,0.6982
+213120,251,ARimage113.png,Not smiling,0.7318
+213120,252,ARimage233.png,Not smiling,0.8448
+213120,253,ARimage17.png,Smiling,0.6482
+213120,254,ARimage19.png,Not smiling,0.6664
+213120,255,ARimage128.png,Not smiling,0.7461
+213120,256,ARimage110.png,Not smiling,0.7221
+213120,257,ARimage273.png,Not smiling,0.6598
+213120,258,ARimage53.png,Smiling,0.7682
+213120,259,ARimage61.png,Not smiling,0.6394
+213120,260,ARimage32.png,Smiling,0.5776
+213120,261,ARimage13.png,Not smiling,0.5637
+213120,262,ARimage181.png,Smiling,0.4599
+213120,263,ARimage194.png,Not smiling,0.6382
+213120,264,ARimage133.png,Not smiling,1.0046
+213120,265,ARimage129.png,Smiling,0.9716
+213120,266,ARimage283.png,Smiling,0.6059
+213120,267,ARimage284.png,Not smiling,0.6590
+213120,268,ARimage296.png,Not smiling,0.7142
+213120,269,ARimage274.png,Smiling,0.8670
+213120,270,ARimage98.png,Smiling,0.8303
+213120,271,ARimage4.png,Not smiling,0.6375
+213120,272,ARimage87.png,Not smiling,0.9244
+213120,273,ARimage6.png,Not smiling,0.5565
+213120,274,ARimage85.png,Not smiling,0.5203
+213120,275,ARimage75.png,Not smiling,0.5277
+213120,276,ARimage264.png,Not smiling,0.6178
+213120,277,ARimage256.png,Smiling,0.5892
+213120,278,ARimage23.png,Smiling,0.5088
+213120,279,ARimage27.png,Not smiling,0.5721
+213120,280,ARimage267.png,Not smiling,0.5078
+213120,281,ARimage81.png,Not smiling,0.5789
+213120,282,ARimage106.png,Not smiling,0.5185
+213120,283,ARimage44.png,Smiling,0.6030
+213120,284,ARimage159.png,Smiling,0.5310
+213120,285,ARimage204.png,Not smiling,0.9904
+213120,286,ARimage14.png,Smiling,0.6213
+213120,287,ARimage57.png,Smiling,0.8556
+213120,288,ARimage83.png,Smiling,0.5922
+213120,289,ARimage162.png,Smiling,0.5367
+213120,290,ARimage71.png,Smiling,0.5674
+213120,291,ARimage248.png,Not smiling,0.731
+213120,292,ARimage266.png,Not smiling,0.5263
+213120,293,ARimage64.png,Not smiling,0.5498
+213120,294,ARimage68.png,Smiling,0.7244
+213120,295,ARimage200.png,Not smiling,0.8023
+213120,296,ARimage103.png,Not smiling,0.5948
+213120,297,ARimage172.png,Smiling,0.6943
+213120,298,ARimage211.png,Smiling,0.6674
